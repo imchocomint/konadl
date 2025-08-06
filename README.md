@@ -1,6 +1,8 @@
 # konadl
 A vibe-coded (in Google Gemini) tool to search and download images from yande.re in Python using PyQt6. Highly configurable for an app like this.
 
+Works cross-platform.
+
 ## Usage
 Grab the binary from Release and run it.
 
@@ -11,7 +13,7 @@ Go check it out and see if you can customize anything.
 
 ## Bugs
 - [ ] button colors not syncing. May find a way to work around this
-- [ ] transparency. I've personally fixed this (not by an AI), but that may be faulty for some people. Please report in Issues.
+- [ ] color addition bug in Windows
 
 ## Roadmap
 - [ ] Automatically set the latest downloaded image as the background and also set the colorscheme based on it using wallust.
